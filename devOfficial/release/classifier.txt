@@ -1,0 +1,10 @@
+flower
+group
+food
+car
+dog
+us
+cat
+architecture
+baby
+landscape
