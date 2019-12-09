@@ -14,3 +14,7 @@
 ## version 1.1.20191031 fixed
    - 移除英语模式下大片界面中文
 
+## version 1.1.20191209 fixed
+   - 所有版本保留facebook分享,不做区分
+   - actionmode 淡出动画取消
+
