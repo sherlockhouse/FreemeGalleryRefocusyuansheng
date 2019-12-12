@@ -18,3 +18,6 @@
    - 所有版本保留facebook分享,不做区分
    - actionmode 淡出动画取消
 
+## version 1.1.20191212 fixed
+   - 去掉英语界面部分中文显示
+
